@@ -1,0 +1,9 @@
+---
+:verbose: false
+:benchmark: false
+:backtrace: false
+:bulk_threshold: 1000
+:update_sources: true
+:sources:
+- http://ruby.taobao.org
+gem: --no-ri --no-rdoc
